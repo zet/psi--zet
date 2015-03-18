@@ -1,0 +1,53 @@
+8
+
+dir
+751
+svn://furiza.local/texts/src/psi_ru/psi_ru
+svn://furiza.local/texts
+
+
+
+2007-02-08T14:39:51.388440Z
+547
+mblsha
+
+
+svn:special svn:externals svn:needs-lock
+
+ru_install.html
+file
+
+
+
+
+2007-02-08T14:20:43.000000Z
+806ffef5e69a07a74847f5a7eafaf88e
+2007-02-08T14:39:51.388440Z
+547
+mblsha
+
+psi_ru.ts
+file
+
+
+
+
+2007-02-08T14:24:23.000000Z
+cf114f5c7ab0ca4c348c0d5c39b13ead
+2007-02-08T14:39:51.388440Z
+547
+mblsha
+
+psi_ru.qm
+file
+
+
+
+
+2007-02-08T14:24:52.000000Z
+e7cf8bd411cac47aa05624d99bb34114
+2007-02-08T14:39:51.388440Z
+547
+mblsha
+has-props
+

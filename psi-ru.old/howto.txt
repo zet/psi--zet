@@ -1,0 +1,24 @@
+
+dion> короче говоря в каталоге psi создаешь каталог lang,
+      потом заходишь в каталог src и там пишешь: lupdate src.pro
+
+
+D:\psi\svn\trunk\src>lupdate src.pro
+Updating '../lang/psi_ru.ts'...
+    Found 1562 source texts (868 new and 694 already existing)
+    Kept 720 obsolete translations
+    Removed 104 obsolete untranslated entries
+    Number heuristic provided 1 translation
+    Same-text heuristic provided 305 translations
+
+
+D:\psi\svn\trunk\src>lupdate src.pro -noobsolete
+Updating '../lang/psi_ru.ts'...
+    Found 1562 source texts (0 new and 1562 already existing)
+    Same-text heuristic provided 2 translations
+
+
+D:\psi\svn\trunk\lang>lrelease psi_ru.ts
+Updating 'psi_ru.qm'...
+    Generated 1033 translations (754 finished and 279 unfinished)
+    Ignored 529 untranslated source texts

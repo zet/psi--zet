@@ -1,0 +1,74 @@
+#summary Psi+ Downloads Main Page (ru+en)
+
+
+= Дистрибутивы Psi+ под различные операционные системы / Psi+ packages for several OS's =
+
+Предварительно рекомендуется ознакомиться с часто задаваемыми вопросами и ответами на них - *[http://psi-plus.com/wiki/ru:faq FAQ]*.
+
+Before downloading you are encouraged to read the frequently asked questions and answers - *[http://psi-plus.com/wiki/en:faq FAQ]*.
+
+== MS Windows (x86/x64) ==
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_windows_icon.png *[http://sourceforge.net/projects/psiplus/files/MS-Windows/Installers/0.16/ Установщик (РЕКОМЕНДУЕТСЯ) / Installer (RECOMMENDED)]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_windows_icon.png [http://sourceforge.net/projects/psiplus/files/MS-Windows/Nightly-Builds/ Классическая ночная сборка (только psi-plus.exe) / Classic Nightly Build (psi-plus.exe only)] ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_windows_icon.png [http://sourceforge.net/projects/psiplus/files/MS-Windows/Nightly-Builds/ Ночная сборка с поддержкой WebKit (только psi-plus.exe) / WebKit Nightly Build (psi-plus.exe only)] ||
+
+_*Примечание*_: Для большинства пользователей Windows рекомендуется использовать полный дистрибутив Psi+ в виде инсталлятора (установщика).
+
+_*Note*_: For most Windows users it is recommended to download the full Psi+ installer.
+
+
+<hr>
+== Mac OS ==
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_mac_icon.png *[http://sourceforge.net/projects/psiplus/files/Mac-OS-X/ Mac OS X]* ||
+
+
+<hr>
+== Linux/BSD ==
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_archlinux_icon.png *[http://sourceforge.net/projects/psiplus/files/Arch-Linux/ Arch Linux]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_fedora_icon.png *[http://psi-plus.com/wiki/fedora_rpm Fedora]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_freebsd_icon.png *[http://sourceforge.net/projects/psiplus/files/FreeBSD/ FreeBSD]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_mandriva_icon.png *[http://sourceforge.net/projects/psiplus/files/Mandriva/ Mandriva]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_opensuse_icon.png *[http://download.opensuse.org/repositories/home:/nirdosh/ openSUSE]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_debian_icon.png *[http://packages.qa.debian.org/psi-plus Debian]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_ubuntu_icon.png *[https://launchpad.net/~psi-plus/+archive/ppa Ubuntu]* ||
+
+
+<hr>
+= Дистрибутивы плагинов Psi+ (Psi+ Plugins packages) =
+
+http://psi-dev.googlecode.com/svn/wiki/images/os_windows_icon.png Полную коллекцию плагинов Psi+ одним архивом можно скачать *[http://sourceforge.net/projects/psiplus/files/MS-Windows/Plugins/ отсюда]*.
+
+http://psi-dev.googlecode.com/svn/wiki/images/os_windows_icon.png The full collection of Psi+ Plugins by one archive you can download from *[http://sourceforge.net/projects/psiplus/files/MS-Windows/Plugins/ here]*.
+
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-plugins.png *[http://sourceforge.net/projects/psiplus/files/MS-Windows/Libs/ Psimedia+]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/aspell.png *[http://sourceforge.net/projects/psiplus/files/MS-Windows/Libs/ Aspell]* ||
+
+http://psi-dev.googlecode.com/svn/wiki/images/icon_infobox.png Подробнее о плагинах для Psi+ можно узнать *[http://psi-plus.com/wiki/ru:plugins здесь]*.
+
+http://psi-dev.googlecode.com/svn/wiki/images/icon_infobox.png More information about Psi+ Plugins you can found *[http://psi-plus.com/wiki/en:plugins here]*.
+
+<hr>
+== Языковые пакеты для Psi+ / Psi+ Translations ==
+
+http://psi-dev.googlecode.com/svn/wiki/images/icon_lang_ru.png Свежую версию языковых пакетов для Psi+ (поддержка более 30 языков, в том числе русского языка) можно скачать *[http://sourceforge.net/projects/psiplus/files/Translations/ здесь]*
+
+http://psi-dev.googlecode.com/svn/wiki/images/icon_lang_uk.png Freshest version of Psi+ translations (over 30 langs) you can download from *[http://sourceforge.net/projects/psiplus/files/Translations/ here]*
+
+
+<hr>
+== Отдельные компоненты для работы Psi+ (не рекомендуется) / Separated Psi+ components (not recommended) ==
+
+Данные компоненты требуются для установки Psi+ по отдельным частям (для бета-тестеров и опытных пользователей).
+
+These components are required to when installing Psi+ by parts (for Beta testers and advanced users).
+
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-exec.png [http://sourceforge.net/projects/psiplus/files/MS-Windows/Libs/ Qt Libs (QtWebKit4.dll included)] (~8 MB) ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-exec.png [http://sourceforge.net/projects/psiplus/files/MS-Windows/Libs/ Win32 OpenSSL Libs] (~0.8 MB) ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-exec.png [http://sourceforge.net/projects/psiplus/files/MS-Windows/Libs/ Zlib for Windows] (~0.05 MB) ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-exec.png [http://sourceforge.net/projects/psiplus/files/MS-Windows/Libs/ LibIDN] (~0.6 MB) ||
+ 
+
+<hr>
+http://psi-dev.googlecode.com/svn/wiki/images/psi-browse.png Посмотреть [http://code.google.com/p/psi-dev/downloads/list?can=1&q=&colspec=Filename+Summary+Uploaded+Size+DownloadCount+UploadedBy полный список архивных (устаревших) файлов]. Актуальные версии файлов можно найти *[http://sourceforge.net/projects/psiplus/files/ ЗДЕСЬ]*.
+
+http://psi-dev.googlecode.com/svn/wiki/images/psi-browse.png See the [http://code.google.com/p/psi-dev/downloads/list?can=1&q=&colspec=Filename+Summary+Uploaded+Size+DownloadCount+UploadedBy full list of obsolete files]. Recent versions of files can be found *[http://sourceforge.net/projects/psiplus/files/ HERE]*.

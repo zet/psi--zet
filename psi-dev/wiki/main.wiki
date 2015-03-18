@@ -1,0 +1,71 @@
+#summary Psi+ Wiki Main Page (ru+en)
+
+= Основная страница Wiki / Wiki Main Page =
+
+Здесь представлен краткий экскурс по имеющимся страницам Psi+ Wiki. *[http://psi-plus.com/wiki/ru:main Подробнее...]*
+
+Here is a brief digression on the existing Psi+ Wiki pages. *[http://psi-plus.com/wiki/en:main More information...]*
+
+
+== Часто задаваемые вопросы по Psi+ / Psi+ FAQ ==
+
+http://psi-dev.googlecode.com/svn/wiki/images/faq.png Наиболее часто задаваемые вопросы и ответы на них можно найти *[http://psi-plus.com/wiki/ru:faq здесь]*.
+
+http://psi-dev.googlecode.com/svn/wiki/images/faq.png The most frequently asked questions and their answers can be found *[http://psi-plus.com/wiki/en:faq here]*.
+
+
+== Форум Psi+ / Psi+ Forum ==
+
+Для обсуждения различных аспектов работы Psi+ и прочих вопросов, связанных с проектом, запущен [http://forum.psi-plus.com/ форум Psi+] ([http://forum.psi-plus.com/viewtopic.php?f=1&t=548 правила регистрации]).
+
+The [http://forum.psi-plus.com/ Psi+ Forum] for discussion of various aspects of Psi+ and other related issues to the Project (about [http://forum.psi-plus.com/viewtopic.php?f=1&t=548 registration]). 
+
+
+== Основная страница закачек / Psi+ Downloads Main Page ==
+
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-pack.png *[http://psi-plus.com/wiki/downloads#%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2%D1%8B_psi Дистрибутивы Psi+ под различные операционные системы / Psi+ packages for some OSs]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-pack.png *[http://psi-plus.com/wiki/downloads#%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2%D1%8B_%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2_psi Дистрибутивы плагинов Psi+ / Psi+ Plugins packages]* ||
+
+
+== Сборка Psi+ под некоторые операционные системы / Psi+ building under some operating systems ==
+
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_windows_icon.png Windows (*[http://psi-plus.com/wiki/mingw32 MinGW]*) ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_mac_icon.png *[http://psi-plus.com/wiki/mac_osx Mac OS X]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_linux_icon.png *[http://psi-plus.com/wiki/linux Linux General]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_altlinux_icon.png *[http://psi-plus.com/wiki/alt_linux AltLinux]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_archlinux_icon.png *[http://psi-plus.com/wiki/arch_linux ArchLinux]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_debian_icon.png *[http://psi-plus.com/wiki/debian Debian/Ubuntu]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_fedora_icon.png *[http://psi-plus.com/wiki/fedora Fedora Project]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_freebsd_icon.png *[http://psi-plus.com/wiki/freebsd FreeBSD]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_gentoo_icon.png *[http://psi-plus.com/wiki/gentoo Gentoo Linux]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_mandriva_icon.png *[http://psi-plus.com/mandriva Mandriva Linux]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_opensuse_icon.png *[http://psi-plus.com/wiki/opensuse openSUSE]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_slackware_icon.png *[http://psi-plus.com/wiki/slackware Slackware Linux]* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/os_meego_icon.png *[http://psi-plus.com/wiki/meego Meego]* ||
+
+
+== Настройка Psi+ / Configuring Psi+ ==
+
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-appearance.png [http://psi-plus.com/wiki/styles Qt Styles] || Настройка стилей в Qt (цвета/шрифты/оформление окон) ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-appearance.png [http://psi-plus.com/wiki/skins_css CSS for Psi+] || Настройка CSS-стилей в Psi+ (цвета/шрифты/оформление окон) ||
+
+
+== Дополнительная информация по проекту / Additional information about Psi+ Project ==
+
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-groupchat.png *[http://psi-plus.com/wiki/conference_rules Conference Rules]* || *Правила поведения в конференции psi-dev@conference.jabber.ru* ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-pack.png [http://psi-plus.com/wiki/rpm_build_howto RPM Build HOWTO] || Инструкция по созданию RPM пакета ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/icon_infobox.png [http://psi-plus.com/wiki/packagement_rules Packagement Rules] || Правила по именованию создаваемых пакетов/дистрибутивов для [http://code.google.com/p/psi-dev/wiki/downloads?tm=2 downloads] ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-patches.png *[http://psi-plus.com/wiki/patches Psi+ Patches]* || Описание патчей Psi+ ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-call.png *[http://psi-plus.com/wiki/av_calls Psimedia]* || Аудио и видео вызовы (псимедиа) ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-call.png [http://psi-plus.com/wiki/psimedia_mingw32 Psimedia+ on MS Windows] || Инструкция по патчингу и сборке Psimedia+ ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/psi-plugins.png *[http://psi-plus.com/wiki/plugins Psi+ Plugins]* || Плагины Psi+ ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/icon_news_new.png *[http://psi-plus.com/wiki/webkit WebKit]* || Вэбкит-версия Psi+ ||
+|| http://psi-dev.googlecode.com/svn/wiki/images/icon_stop.png [http://psi-plus.com/wiki/build_errors Psi+ Build Errors] || Ошибки при сборке проекта Psi+ ||
+
+http://psi-dev.googlecode.com/svn/wiki/images/psi-browse.png Посмотреть *[http://psi-plus.com/wiki/ru:main?do=index ПОЛНЫЙ СПИСОК]* страниц Wiki, доступных для изучения*.
+
+http://psi-dev.googlecode.com/svn/wiki/images/psi-browse.png View the *[http://psi-plus.com/wiki/en:main?do=index FULL LIST]* of Wiki pages, available for study*.
+
+
+
+

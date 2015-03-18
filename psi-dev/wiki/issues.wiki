@@ -1,0 +1,100 @@
+#summary Памятка бета-тестера / Memo for beta tester (Issues main page) /ru+en/
+#labels Phase-Requirements,Phase-Support
+
+= ВАЖНО!!! =
+*ПЕРЕД ТЕМ, КАК СОЗДАТЬ НОВУЮ ЗАДАЧУ В БАГТРЕКЕРЕ ПРОЕКТА, НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ ПРЕДВАРИТЕЛЬНО ОБСУДИТЬ ЕЁ В КОНФЕРЕНЦИИ psi-dev@conference.jabber.ru и/или на [http://forum.psi-plus.com/ ФОРУМЕ Psi+]*.
+
+
+= Предисловие =
+  * Как правильно задавать вопросы?
+  * http://maddog.sitengine.ru/smart-question-ru.html
+
+
+= Правила оформления багрепортов =
+
+== Последняя ли версия Psi+ используется? ==
+Зачастую, самые критические ошибки находятся и устраняются достаточно быстро и найденная Вами ошибка может быть уже исправлена.
+
+
+== Описание ошибки ==
+Все правильно оформленные отчёты содержат ответы на 3 вопроса:
+  * Какие действия были выполнены?
+  * Что ожидалось получить?
+  * Какой получен результат?
+
+*ВНИМАНИЕ!*
+
+Это самый важный пункт Вашего будущего отчёта об ошибке. Если разработчики не смогут воспроизвести ошибку по Вашему отчёту, велика вероятность того, что отчёт будет просто пылиться в багтрекере или даже будет отклонён с вердиктом *"Не воспроизводится"*.
+
+В некоторых случаях для Вас может оказаться затруднительно выдать описание действий, приводящих к ошибке, поскольку Вы могли не запомнить эти действия, либо ошибка происходит не всегда при выполнении последовательности действий.
+
+Всё же, попытайтесь в таких случаях ответить на вышеприведённые вопросы. Укажите в примечании, что ошибка происходит не всегда. Такая ошибка трудноуловима, но мы всё равно попытаемся обнаружить и исправить её.
+
+Указывайте *ожидаемый* результат -- в некоторых случаях без этого пункта совершенно непонятно, почему *полученный* результат Вы восприняли как ошибочный.
+
+
+== А не занесена ли уже данная ошибка в багтрекер? ==
+Ошибка могла быть уже найдена другими людьми и занесена в [http://code.google.com/p/psi-dev/issues/list багтрекер]. Можно попробовать воспользоваться *[http://code.google.com/p/psi-dev/issues/advsearch поиском]*. Возможно, что имеющееся описание ошибки оказалось неполным -- тогда есть смысл поделиться своими соображениями. Добавьте Ваши комментарии к описанию ошибки.
+
+
+== Добавьте отчёт в багтрекер ==
+  * Не забудьте озаглавить отчёт. Заголовок должен быть коротким, но осмысленным.
+  * Заполняйте все поля отчёта.
+  * Указывайте название и версию операционной системы, в которой возникла данная ошибка. В случае Psi+ ещё необходимо указывать версию Qt и наличие/отсутствие `WebKit`-функционала. Для Linux необходимо указывать DE (KDE, Gnome) и тему рабочего стола.
+
+
+Мы *ОЧЕНЬ* ценим бета-тестеров, оформляющих отчёты об ошибках *ПРАВИЛЬНО*! Такие тестеры экономят и своё время, и время разработчиков, а также улучшают качество программы. Большое им спасибо!
+
+
+----
+
+= IMPORTANT!!! =
+Before you create a new task in the bug tracker we strongly recommend you to *first discuss* it in *psi-dev@conference.jabber.ru* and/or in [http://forum.psi-plus.com/ Psi+ Forum].
+
+
+= Preface =
+
+  * How to ask questions the smart way?
+  * http://www.catb.org/~esr/faqs/smart-questions.html
+
+
+= Bug reporting guidelines =
+
+== Are you using the latest version of Psi+? ==
+Often, the most critical bugs are found and eliminated quickly enough and you found an error that may already have been fixed.
+
+== Bug Description ==
+All well-formed reports contain the answers to 3 questions:
+  * What actions have been taken?
+  * What did you expect to happen?
+  * What happenend instead?
+
+*WARNING!*
+
+This is the most important part of your bug report. If the developers can not reproduce the problem in your report, it is likely that the report will simply gather dust in the bug tracker or even be rejected with the verdict *Isn't reproducible*.
+
+In some cases you may have difficulty to give a precise description of all the actions that lead to the error, because you may not remember these steps or the error does not consistently happen with the given action sequences.
+
+Still, in such cases do try to answer the questions above. Indicate in a footnote that the error does not always happen. This error is elusive, but we will still try to find and fix it.
+
+When you forget to specify what you expected, in some cases, it may be unclear why the result you do get is perceived as incorrect.
+
+
+== The bug has not been reported yet in the bug tracker? ==
+A problem may have already been found by someone else and be listed in the [http://code.google.com/p/psi-dev/issues/list bug tracker]. You should try the *[http://code.google.com/p/psi-dev/issues/advsearch search]* page first to prevent creating a duplicate report. If you find the information in an existing report is incomplete, please add your comments to the existing report.
+
+
+== Adding a report in the bugtracker ==
+  * When naming the report, make sure the headline is short but meaningful.
+  * Fill in all fields of the report.
+  * Specify the name and version of your operating system. With Psi+ you should also specify the version of Qt and the presence/absence of `WebKit`. For Linux, you must specify DE (KDE, Gnome) and the theme of the desktop.
+
+We *REALLY* appreciate beta testers that make bug reports that are *GOOD*! These testers save our time, save developers' time and improve the quality of the program. Much thanks to them!
+
+
+
+
+
+----
+_based on [http://bombus-im.org/wiki/ Bombus Wiki]_
+
